@@ -25,9 +25,9 @@ class Calculator
 //                		break;
 //					}
                     result = result*x;
-                    cout<<"inside loo result = "<<result<<endl;
+                    //cout<<"inside loo result = "<<result<<endl;
                 }
-                cout<<"result = "<<result<<endl;
+                //cout<<"result = "<<result<<endl;
                 return result; 
             }
             
