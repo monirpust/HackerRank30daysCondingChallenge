@@ -32,7 +32,7 @@ class Solution {
             char ch = myqueue.front();
             myqueue.pop();
           
-          return ch;  
+            return ch;  
         }
 
 };
